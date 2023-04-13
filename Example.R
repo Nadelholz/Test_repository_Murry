@@ -9,3 +9,5 @@ head(cars)
 print("onelastchange")
 
 usethis::create_github_token()
+
+usethis::edit_git_ignore(scope = "project")
