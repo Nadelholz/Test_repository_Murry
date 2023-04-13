@@ -7,3 +7,5 @@ head(cars)
 
 
 print("onelastchange")
+
+usethis::create_github_token()
